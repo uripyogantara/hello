@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.uripyogantara.helloworld.MainActivity">
+    <TextView
+        android:layout_gravity="center"
+        android:text="Dilan 1990"
+        android:textSize="20sp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#FFF"
+        android:layout_width="300dp"
+        android:layout_height="300dp" />
+</LinearLayout>
